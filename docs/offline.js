@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548563673,
+	"version": 1548564905,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,6 +28,7 @@
 		"images/sprite-sheet0.png",
 		"images/catglow-sheet0.png",
 		"images/spritefont.png",
+		"images/sprite2-sheet0.png",
 		"media/miauw-angry.m4a",
 		"media/miauw-angry.ogg",
 		"media/prrrr.m4a",
