@@ -1,10 +1,11 @@
 ﻿{
-	"version": 1548554443,
+	"version": 1548563673,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"images/bear-sheet0.png",
+		"images/bear-sheet1.png",
 		"images/home-sheet0.png",
 		"images/start-sheet0.png",
 		"images/uwon-sheet0.png",
@@ -21,6 +22,12 @@
 		"images/grass.png",
 		"images/fadefromblack-sheet0.png",
 		"images/fireflybullets-sheet0.png",
+		"images/foodandservant-sheet0.png",
+		"images/restart-sheet0.png",
+		"images/ohgood-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/catglow-sheet0.png",
+		"images/spritefont.png",
 		"media/miauw-angry.m4a",
 		"media/miauw-angry.ogg",
 		"media/prrrr.m4a",
@@ -35,6 +42,7 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"disposabledigibb_bld.otf",
+		"minecraftia.ttf",
 		"pathfind.js"
 	]
 }
