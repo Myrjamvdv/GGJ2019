@@ -25735,14 +25735,14 @@ cr.behaviors.solid = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.gamepad,
+	cr.plugins_.Audio,
 	cr.plugins_.Keyboard,
-	cr.plugins_.Sprite,
+	cr.plugins_.gamepad,
 	cr.plugins_.Spritefont2,
-	cr.plugins_.TiledBg,
+	cr.plugins_.Sprite,
 	cr.plugins_.Text,
 	cr.plugins_.Tilemap,
-	cr.plugins_.Audio,
+	cr.plugins_.TiledBg,
 	cr.behaviors.Bullet,
 	cr.behaviors.Pathfinding,
 	cr.behaviors.LOS,
